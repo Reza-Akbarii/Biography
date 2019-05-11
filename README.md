@@ -1,2 +1,0 @@
-# Biography
-Created with CodeSandbox
